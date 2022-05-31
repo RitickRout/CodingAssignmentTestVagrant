@@ -4,3 +4,6 @@ This code has been created with javaScript
 FirstinputRequired - Number of Consecutive Win Loss to be filtered
 SecondinputRequired - Input 1 - to Find Win
                             0 - to Find Loss
+                            
+                            
+  Output - Check On Console of the Browser
